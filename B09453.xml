@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The loving young couple, or, The amourous vvooing between Willie and Nancie Willie woos Nancie and tell her his mind, but Nancie at first proveth very unkind, but as last in conclusion to end all the strife, he got her good will for to make her his wife, now they live in love in joy and in peace, and I hope every year their welath will encrease, to the tune of, Of the kind mistress</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09453</idno><idno type="EEBO-CITATION">62369467</idno>
+  <idno type="VID">188010</idno>
+  <idno type="EEBO-PROQUEST">2240870139</idno>
+  
+            <idno type="STC">Wing L3296</idno>
+            <idno type="STC">ESTC R180189</idno>
+            <idno type="OCLC">62369467</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09453)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188010)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2852:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The loving young couple, or, The amourous vvooing between Willie and Nancie Willie woos Nancie and tell her his mind, but Nancie at first proveth very unkind, but as last in conclusion to end all the strife, he got her good will for to make her his wife, now they live in love in joy and in peace, and I hope every year their welath will encrease, to the tune of, Of the kind mistress</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere, J. Wright and J. Clark,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>[1674-1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Date range of publication suggested by Wing (2nd ed.).</note>
+                  <note>Versus in black letter, chorus lines in Roman.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:188010:1"/>
+            <pb facs="tcp:188010:2"/>
+            <head>The loving young Couple. OR, the Amourous VVooing between <hi>Willie</hi> and <hi>Nancie.</hi>
+            </head>
+            <argument>
+               <l>
+                  <hi>Willie</hi> woos <hi>Nancie,</hi> and tells her his mind;</l>
+               <l>But <hi>Nancie</hi> at first proveth very unkind:</l>
+               <l>But at last in conclusion to end all the strife,</l>
+               <l>He got her good will for to make her his Wife.</l>
+               <l>Now they live in love in joy and in peace,</l>
+               <l>And I hope every year their wealth will encrease.</l>
+            </argument>
+            <opener>To the Tune, <hi>Of the kind Mistress.</hi>
+            </opener>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>With Allowance.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <figure>
+                  <figDesc>stock woodcut of couple holding hands</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>AS I by chance was walking on a day,</l>
+               <l>I spide a couple gathering of May;</l>
+               <l>And thus the young Man he began to woe her,</l>
+               <l>and promised still he would be faithful to her.</l>
+            </lg>
+            <lg>
+               <l>O come my Dear, and sit thée down by me,</l>
+               <l>I do not question but we shall agree,</l>
+               <l>If that unto me y<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u will still be constant,</l>
+               <l>Il be at your command at every instant.</l>
+            </lg>
+            <lg>
+               <l>If thou wilt but yield for to be my Wife,</l>
+               <l>then thou shalt live a sweet contented life:</l>
+               <l>And this I tell thée without dissimulation,</l>
+               <l>
+                  <hi>I</hi> fancy thee above all Girls in the Nation.</l>
+            </lg>
+            <sp>
+               <speaker>The Maid.</speaker>
+               <lg>
+                  <l>Is it for this you hither have me brought,</l>
+                  <l>
+                     <hi>I</hi> am not a Girl that s so easily caught;</l>
+                  <l>For to hear your talk it makes my flesh to trembl<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </l>
+                  <l>for young Men now a dayes they can dissemble</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:188010:2"/>
+                  <l>And this <hi>I</hi> know there is none of you all,</l>
+                  <l>but are given much to bring Maids to a down fall,</l>
+                  <l>They'l speak them fair on purpose to deceive them,</l>
+                  <l>&amp; when they have had their will then they will leave them.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>The Man.</speaker>
+               <lg>
+                  <l>My dearest be not thou so cross to me,</l>
+                  <l>I vow and swear I fancy none but thee,</l>
+                  <l>I pray thee dearest be thou not so cruel,</l>
+                  <l>for I vow and swear that thou art my Iewel.</l>
+               </lg>
+               <lg>
+                  <l>Then speak my only joy now be kind to me,</l>
+                  <l>that thou and I may spéedily agree,</l>
+                  <l>Speak kindly to me now my dearest <hi>Nancy,</hi>
+                  </l>
+                  <l>I vow and swear thou art the Girl I fancy.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>The Maid.</speaker>
+               <lg>
+                  <l>I know there be some young Men now a dayes,</l>
+                  <l>that highly will a Maidens beauty praise:</l>
+                  <l>But when a Maiden once do come to trust'um,</l>
+                  <l>then they'l forsake them as it is their custom.</l>
+               </lg>
+               <lg>
+                  <l>Therefore, good Sir, I pray leave off your suite,</l>
+                  <l>for I do think that I shall never do't;</l>
+                  <l>Therefore, good Sir, I pray leave off your wooing,</l>
+                  <l>If I should yield it might prove my undoing,</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>The Man.</speaker>
+               <lg>
+                  <l>My only joy be not so unkind to me,</l>
+                  <l>for all my whole delight is still in thee,</l>
+                  <l>Then I pray thee <hi>Nancy</hi> speak thou kindly to me,</l>
+                  <l>or else I do protest thou wilt undo me.</l>
+               </lg>
+               <lg>
+                  <l>And this I tell thee now my hearts delight,</l>
+                  <l>I find no joy but when I am in thy sight:</l>
+                  <l>Then I pray thee dearest speak thee kindly to me,</l>
+                  <l>for I vow and swear that dearly I do love thee.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>The Maid,</speaker>
+               <lg>
+                  <l>There be many young Men that deceitful are.</l>
+                  <l>which often times do bring Maids to despair,</l>
+                  <l>And cunningly they do us daily cosen,</l>
+                  <l>and make fools of poor Maidens by the dosen.</l>
+               </lg>
+               <lg>
+                  <l>Therefore I think we had need to have a care,</l>
+                  <l>and of uncivil young Men still for to beware,</l>
+                  <l>And not be overhasty to be married,</l>
+                  <l>for many a Girl by that she hath miscarried.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>The Man.</speaker>
+               <l>know there be some young Men now a dayes,</l>
+               <l>which oftentimes draw Maids out of their ways;</l>
+               <l>But I am none of those I tell thee plainly,</l>
+               <l>to speak thee fair at first and then disdain the<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</l>
+            </sp>
+            <sp>
+               <speaker>The Maid.</speaker>
+               <lg>
+                  <l>If that I thought the words you speak were true,</l>
+                  <l>could find in my heart, me thinks, to fancy you:</l>
+                  <l>But yet there's many young Men in this Nation,</l>
+                  <l>which often times bring Maids unto vexation.</l>
+               </lg>
+               <lg>
+                  <l>But now I am resolved to end the strife,</l>
+                  <l>and ever hereafter be thy constant Wife:</l>
+                  <l>Then I pray thee <hi>Willie</hi> be thou constant to me,</l>
+                  <l>for if thou falsifie thou wilt undo me.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>The Man.</speaker>
+               <lg>
+                  <l>The young man hearing what the maid had told,</l>
+                  <l>to kiss her then he thought that he might be bold;</l>
+                  <l>And so he told her how things should be carried.</l>
+                  <l>and that within a moneth they would be married.</l>
+               </lg>
+               <lg>
+                  <l>So to conclude and make no delay,</l>
+                  <l>but to the Church they ha<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>led both away:</l>
+                  <l>wish them peace and love and all things plenty</l>
+                  <l>and that between them there be nothing scanty.</l>
+               </lg>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for</hi> F. Coles, T. Vere. <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Wright, <hi>and</hi> J. Clark.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
